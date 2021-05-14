@@ -16,6 +16,8 @@ public class helloJava {
         System.out.println("m="+m);
         System.out.println("n="+n);
 
-        System.out.println("Add in first branch");
+
+        System.out.println("Add in first branch line 1");
+        System.out.println("Add in first branch line 2");
     }
 }
